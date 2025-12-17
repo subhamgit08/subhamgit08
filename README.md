@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=00d1ff&height=120&section=header&text=SUBHAM%20DAS&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SUBHAM%20DAS&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Competitive%20Programmer%20|%20Developer&descSize=20&descAlignY=65&theme=cyber" />
 
 ### Full-Stack Developer • Competitive Programmer • Tech Enthusiast
 
