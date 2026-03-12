@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 💻 Strong interest in **DSA & Competitive Programming**
-- 🌐 Building projects using **JavaScript, TypeScript, React, Next.js**
+- 🌐 Building projects using **JavaScript, TypeScript, React, Node.js**
 - 🧠 Regular on **LeetCode & Codeforces**
 - 🎯 Goal: **Crack product-based companies**
 
