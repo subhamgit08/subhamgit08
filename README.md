@@ -25,9 +25,7 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=subhamgit08&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&cache_seconds=1800" width="400px" />
-      </td>
+      <td> <img src="https://github-readme-stats.vercel.app/api?username=subhamgit08&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="400px" /> </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamgit08&layout=compact&langs_count=10&count_private=true&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff&cache_seconds=1800" width="300px" />
       </td>
