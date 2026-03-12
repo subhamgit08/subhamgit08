@@ -4,12 +4,6 @@
 
 ### Full-Stack Developer • Competitive Programmer • Tech Enthusiast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Medium-orange?style=flat-square&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=flat-square&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square&logo=github" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -64,9 +58,8 @@
 ---
 
 ## 🏆 Career Milestones
-- 🚀 Built a full-stack **Next.js** application with real-time features.
-- 💡 Solved **XXX+** problems on LeetCode with a high contest rating.
-- 🏁 Ranked in top **X%** in Global Codeforces contests.
+- 🚀 Built a full-stack **MERN** application with real-time features.
+- 💡 Solved **250+** problems on LeetCode with a contest rating 1537.
 
 ---
 
