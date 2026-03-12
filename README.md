@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Subham Das</h1>
-<h3 align="center">Competitive Programmer | DSA | Web Developer</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SUBHAM%20DAS&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Competitive%20Programmer%20|%20Developer&descSize=20&descAlignY=65&theme=cyber" />
+
+### Full-Stack Developer • Competitive Programmer • Tech Enthusiast
 
 <p align="center">
-  <a href="https://github.com/subhamgit08">
-    <img src="https://komarev.com/ghpvc/?username=subhamgit08&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-Medium-orange?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -17,64 +20,57 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,html,css,git" />
-</p>
+## 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,ts,react,nextjs,nodejs,tailwind,mongodb,postgresql,docker,git,postman,linux&perline=6" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhamgit08&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamgit08&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamgit08&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Competitive Programming Stats
-
-### 🔹 LeetCode
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Subham_Leet_INT_MAX?theme=dark&font=Karma&ext=contest" />
-</p>
-
-### 🔹 Codeforces
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=subhamdas08&theme=tokyonight" />
-</p>
+## 📊 Performance Dashboard
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=subhamgit08&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="400px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamgit08&layout=compact&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff" width="300px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📈 Problem Solving Overview (Visual)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamgit08&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhamgit08&theme=tokyonight" />
-</p>
+## 🧠 Competitive Programming Prowess
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <p><b>LeetCode Status</b></p>
+        <a href="https://leetcode.com/Subham_Leet_INT_MAX">
+          <img src="https://leetcard.jacoblin.cool/Subham_Leet_INT_MAX?theme=dark&font=Karma&ext=contest" width="100%" />
+        </a>
+      </td>
+      <td align="center">
+        <p><b>Codeforces Standing</b></p>
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=subhamdas08&theme=tokyonight" width="350px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🏆 Achievements
-- ⭐ Solved **XXX+ DSA problems**
-- 🏅 Active participant in **Codeforces contests**
-- 🚀 Built real-world projects using **Next.js**
+## 🏆 Career Milestones
+- 🚀 Built a full-stack **Next.js** application with real-time features.
+- 💡 Solved **XXX+** problems on LeetCode with a high contest rating.
+- 🏁 Ranked in top **X%** in Global Codeforces contests.
 
 ---
 
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://github.com/subhamgit08">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/subham-das-b87aa3340">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=100&section=footer" />
+  <p><i>"The only way to learn a new programming language is by writing programs in it."</i></p>
+</div>
